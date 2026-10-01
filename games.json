@@ -1,0 +1,5 @@
+[
+{"id":1,"title":"Unstable Business","description":"A 2D business game demo.","thumbnail":"assets/images/unstable-business.svg","category":"Simulation","gameUrl":"games/unstable-business/index.html","featured":true,"releaseDate":"2026-09-01"},
+{"id":2,"title":"Halloween Candy","description":"Collect candy before time runs out.","thumbnail":"assets/images/halloween-candy.svg","category":"Arcade","gameUrl":"games/halloween-candy/index.html","featured":true,"releaseDate":"2026-09-20"},
+{"id":3,"title":"Demo Game","description":"A tiny demo to test the launcher.","thumbnail":"assets/images/demo-game.svg","category":"Demo","gameUrl":"games/demo-game/index.html","featured":false,"releaseDate":"2026-09-30"}
+]
